@@ -34,6 +34,6 @@ public class Main {
         System.out.println("Pajak (5%)  : Rp" + pajakRoti);
         System.out.println("Subtotal    : Rp" + subtotalRoti);
         System.out.println();
-        System.out.print("Total Bayar   : Rp" + totalBayar);
+        System.out.println("Total Bayar   : Rp" + totalBayar);
     }
 }
